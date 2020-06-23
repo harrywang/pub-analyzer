@@ -17,7 +17,8 @@ We collected the public data about the [50 Journals used in Financial Times Busi
 ```
 sqlite3 pub_raw.db .dump > pub_raw_mysql.sql
 ```
-
+The database has the following tables:
+<img width="183" alt="Screen Shot 2020-05-16 at 2 01 47 PM" src="https://user-images.githubusercontent.com/595772/82126916-dcd6eb00-977d-11ea-96b3-4af551040913.png">
 
 ## Setup
 
@@ -34,7 +35,7 @@ Run `$ jupyter notebook` to go over the notebooks.
 ## Team
 
 - [Harry Wang](http://harrywang.me/): Professor of Management Information Systems at the University of Delaware.
-- [Eric Zhang](https://github.com/mianhu888): PhD student of Computer Science at the University of Delaware
+- [Eric Zhang](https://github.com/mianhu888): PhD student of Computer Science at the University of Delaware.
 
 ## Disclaimers
 

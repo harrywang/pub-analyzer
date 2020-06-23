@@ -129,3 +129,10 @@ dmypy.json
 .pyre/
 
 .DS_Store
+
+# large grid raw json
+grid.json
+
+# vscode
+
+.vscode
