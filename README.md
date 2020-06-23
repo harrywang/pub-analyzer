@@ -35,9 +35,10 @@ Run `$ jupyter notebook` to go over the notebooks.
 ## Team
 
 - [Harry Wang](http://harrywang.me/): Professor of Management Information Systems at the University of Delaware.
-- [Eric Zhang](https://github.com/mianhu888): PhD student of Computer Science at the University of Delaware.
+- [Eric Zhang](https://github.com/mianhu888): PhD student of Computer Science at the University of Delaware
+- [Rachel Zheng](https://github.com/chz816): PhD student in Financial Services Analytics at the University of Delaware
 
 ## Disclaimers
 
 - The data we collected are all publicly displayed on journals' websites and the full texts of the publications are not provided.
-- The dataset and related code are prepared for public research, teaching, and learning.
+- The dataset and related code are prepared for non-commercial research, teaching, and learning.
